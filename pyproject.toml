@@ -4,5 +4,5 @@ build-backend = "setuptools.build_meta"
 
 [project]
 dependencies = ["djitellopy"]
-name = "djitellopy_"
+name = "djitellopy_custom"
 version = "0.1.0"
